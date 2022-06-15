@@ -2,3 +2,5 @@
 senai curso
 
 README exercício
+
+lembrei do comando: git commit
